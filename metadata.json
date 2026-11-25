@@ -1,0 +1,6 @@
+{
+  "name": "Cyber Pop",
+  "description": "Freshly popped Nigerian campus popcorn with a cyber-inspired twist. Order Classic.exe, Caramel Overload, Cheese.exe, and Choco Byte directly via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
